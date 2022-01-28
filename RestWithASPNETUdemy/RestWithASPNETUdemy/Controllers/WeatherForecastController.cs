@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace RestWithASPNETUdemy.Controllers
 {
+    /// <summary>
+    /// ///novo teste do teste
+    /// </summary>
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase

@@ -36,6 +36,7 @@ namespace RestWithASPNETUdemy.Controllers
                 return Ok();
         }
 
+
         [HttpPost]
         public IActionResult Post([FromBody] Person person)
         {
